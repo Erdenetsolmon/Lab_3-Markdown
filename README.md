@@ -11,7 +11,8 @@
 ## Ашигласан командууд
 
 ###  Inline code
-git status
+```git status
+```
 
 ###  Code block
 ```bash
