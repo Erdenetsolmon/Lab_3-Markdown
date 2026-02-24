@@ -11,7 +11,7 @@
 ## Ашигласан командууд
 
 ###  Inline code
-`git status`
+`git status
 
 
 ###  Code block
@@ -35,4 +35,4 @@ git commit -m "first commit"
 |-----|----|---------|
 |Бат  | 20 | IT      |
 |Болд | 22 | SE      |
-erdenetsolmon
+erdenetsolmon.
