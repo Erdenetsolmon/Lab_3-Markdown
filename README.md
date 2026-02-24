@@ -17,8 +17,9 @@ git status
 ```bash
 git add.
 git commit -m "first commit"
+```
 
-Ашигласан командууд
+## Ашигласан командууд
 
 ## Link хийх
 [Датс Вэб сайт руу шилжих](http://stda.edu.mn/)
